@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UTS</string>
+
+    <string-array name="jenis_kelamin">
+        <item>Perempuan</item>
+        <item>Laki-laki</item>
+    </string-array>
+</resources>
+
